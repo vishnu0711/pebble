@@ -659,4 +659,10 @@
             <name>Zoltan Levardy</name>
         </contributor>
     </contributors>
+ <distributionManagement>
+  <repository>
+    <id>releases</id>
+    <url>http://54.169.49.162:8081/nexus/content/repositories/releases</url>
+  </repository>
+</distributionManagement>
 </project>
